@@ -1,5 +1,21 @@
 $custom-red: rgb(255, 29, 29);
+$custom-white: white;
+
+body {
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+}
 
 header {
-    color: rgb(48, 153, 153);
+    color: $custom-white;
+    width: 100vw;
+
+    .red-header {
+        background-color: $custom-red;
+    }
+
+    .two-navs {
+        display: none;
+    }
 }

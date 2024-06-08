@@ -12,6 +12,16 @@ header {
 header .red-header {
   background-color: rgb(255, 29, 29);
 }
+header .red-header .btn-yellow {
+  background-color: yellow;
+  height: -moz-fit-content;
+  height: fit-content;
+  border: 0;
+}
+header .red-header .buttton {
+  height: 30px;
+  width: 30px;
+}
 header .two-navs {
   display: none;
 }/*# sourceMappingURL=page.css.map */

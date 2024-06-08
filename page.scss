@@ -13,6 +13,17 @@ header {
 
     .red-header {
         background-color: $custom-red;
+
+        .btn-yellow {
+            background-color: yellow;
+            height: fit-content;
+            border: 0;
+        }
+
+        .buttton {
+            height: 30px;
+            width: 30px;
+        }
     }
 
     .two-navs {

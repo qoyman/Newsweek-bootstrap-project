@@ -17,6 +17,9 @@ header .red-header .btn-yellow {
   height: -moz-fit-content;
   height: fit-content;
   border: 0;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  border-radius: 50px;
 }
 header .red-header .buttton {
   height: 30px;

@@ -14,6 +14,10 @@ header {
     .red-header {
         background-color: $custom-red;
 
+        .big-header {
+            margin: 10px 0 10px 0;
+        }
+
         .btn-yellow {
             background-color: yellow;
             height: fit-content;

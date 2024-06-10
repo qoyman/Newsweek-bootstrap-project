@@ -12,6 +12,9 @@ header {
 header .red-header {
   background-color: rgb(255, 29, 29);
 }
+header .red-header .big-header {
+  margin: 10px 0 10px 0;
+}
 header .red-header .btn-yellow {
   background-color: yellow;
   height: -moz-fit-content;

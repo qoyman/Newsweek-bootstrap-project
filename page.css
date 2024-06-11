@@ -31,3 +31,21 @@ header .red-header .buttton {
 header .two-navs {
   display: none;
 }/*# sourceMappingURL=page.css.map */
+
+.fotsocials {
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.fotedition  {
+  list-style-type: none;
+
+}
+
+.foot-bottom {
+  list-style-type: none;
+}
+
+
+
+
